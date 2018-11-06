@@ -6311,3 +6311,29 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
+
+.nav-link:hover {
+  text-decoration: underline; }
+
+.jumbotron {
+  margin-bottom: 1rem;
+  background: #ffffff url(../media/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  text-align: center;
+  color: white; }
+
+h1 {
+  font-family: 'Mali', cursive; }
+
+.byline {
+  font-family: 'Mali', cursive; }
+
+.head {
+  font-family: 'Mali', cursive; }
+
+.row.vertical-divider > div[class^="col-"] {
+  text-align: center;
+  padding-bottom: 100px;
+  margin-bottom: -100px;
+  border-left: 3px solid #F2F7F9;
+  border-right: 3px solid #F2F7F9; }
